@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.gpuAcceleration": "off",
+    "git.autofetch": true
+}
